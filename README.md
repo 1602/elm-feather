@@ -1,3 +1,6 @@
+Note, this is fork of new repository located at https://github.com/feathericons/elm-feather
+This for exists for sole purpose of keeping existing published version in elm package registry alive.
+
 # Feather icons for elm
 
 Embeddable svg icons by https://feathericons.com/
@@ -45,11 +48,4 @@ In case if you just want subset of icons or don't want additional dependency
 
 # Contribution
 
-This package semi-automatically generated using https://github.com/1602/elm-feather-icons as builder and https://github.com/feathericons/feather as source.
-
-# Roadmap
-
-- [x] UI to search and generate code (https://1602.github.io/elm-feather-icons/)
-- [x] elm package (this package)
-- [x] API to customise icons
-- [ ] automatic generation and publishing of a new package version when new feather-icon arrives (https://github.com/1602/elm-feather/issues/2)
+Contribute here: https://github.com/feathericons/elm-feather
